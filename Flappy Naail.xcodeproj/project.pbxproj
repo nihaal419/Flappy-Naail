@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6C5CFF6C18DF63C200637E75 /* pipe.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C5CFF6B18DF63C200637E75 /* pipe.png */; };
+		6C5CFF7218DF65B600637E75 /* tap.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C5CFF7118DF65B600637E75 /* tap.png */; };
+		6C65891318DF6A1A005AD107 /* Score.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C65891218DF6A1A005AD107 /* Score.png */; };
+		6C65891518DF6B3E005AD107 /* exit.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C65891418DF6B3E005AD107 /* exit.png */; };
+		6CA4AD1C18DF4A2F001CE9F0 /* Game Over.png in Resources */ = {isa = PBXBuildFile; fileRef = 6CA4AD1B18DF4A2F001CE9F0 /* Game Over.png */; };
 		6CAA0D4018D4CD4700F38B45 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6CAA0D3F18D4CD4700F38B45 /* Foundation.framework */; };
 		6CAA0D4218D4CD4700F38B45 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6CAA0D4118D4CD4700F38B45 /* CoreGraphics.framework */; };
 		6CAA0D4418D4CD4700F38B45 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6CAA0D4318D4CD4700F38B45 /* UIKit.framework */; };
@@ -21,6 +26,17 @@
 		6CAA0D6118D4CD4800F38B45 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6CAA0D4318D4CD4700F38B45 /* UIKit.framework */; };
 		6CAA0D6918D4CD4800F38B45 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6CAA0D6718D4CD4800F38B45 /* InfoPlist.strings */; };
 		6CAA0D6B18D4CD4800F38B45 /* Flappy_NaailTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6CAA0D6A18D4CD4800F38B45 /* Flappy_NaailTests.m */; };
+		6CAA0D7B18D4D08300F38B45 /* BirdUp.png in Resources */ = {isa = PBXBuildFile; fileRef = 6CAA0D7918D4D08300F38B45 /* BirdUp.png */; };
+		6CAA0D8018D4E0CD00F38B45 /* Game.m in Sources */ = {isa = PBXBuildFile; fileRef = 6CAA0D7F18D4E0CD00F38B45 /* Game.m */; };
+		6CAA0D8418D4EBD200F38B45 /* MainMenu.png in Resources */ = {isa = PBXBuildFile; fileRef = 6CAA0D8318D4EBD200F38B45 /* MainMenu.png */; };
+		6CAA0D8618D4ED6E00F38B45 /* Rectangular Marquee.png in Resources */ = {isa = PBXBuildFile; fileRef = 6CAA0D8518D4ED6E00F38B45 /* Rectangular Marquee.png */; };
+		6CAA0D8818D4F65E00F38B45 /* GetReady.png in Resources */ = {isa = PBXBuildFile; fileRef = 6CAA0D8718D4F65E00F38B45 /* GetReady.png */; };
+		6CAA0D9018D501B200F38B45 /* floor.png in Resources */ = {isa = PBXBuildFile; fileRef = 6CAA0D8F18D501B200F38B45 /* floor.png */; };
+		6CAA0D9218D5023700F38B45 /* borderbottom.png in Resources */ = {isa = PBXBuildFile; fileRef = 6CAA0D9118D5023700F38B45 /* borderbottom.png */; };
+		6CAA0D9418D509C600F38B45 /* top.png in Resources */ = {isa = PBXBuildFile; fileRef = 6CAA0D9318D509C600F38B45 /* top.png */; };
+		6CB3EBC918E68D4200212BBC /* Play Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 6CB3EBC818E68D4200212BBC /* Play Button.png */; };
+		6CB3EBCD18E690FB00212BBC /* Home Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 6CB3EBCC18E690FB00212BBC /* Home Button.png */; };
+		6CB3EBD318E6934900212BBC /* Replay Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 6CB3EBD218E6934900212BBC /* Replay Button.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +50,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6C5CFF6B18DF63C200637E75 /* pipe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pipe.png; sourceTree = "<group>"; };
+		6C5CFF7118DF65B600637E75 /* tap.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tap.png; sourceTree = "<group>"; };
+		6C65891218DF6A1A005AD107 /* Score.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Score.png; sourceTree = "<group>"; };
+		6C65891418DF6B3E005AD107 /* exit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = exit.png; sourceTree = "<group>"; };
+		6CA4AD1B18DF4A2F001CE9F0 /* Game Over.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Game Over.png"; sourceTree = "<group>"; };
 		6CAA0D3C18D4CD4700F38B45 /* Flappy Naail.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Flappy Naail.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6CAA0D3F18D4CD4700F38B45 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6CAA0D4118D4CD4700F38B45 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +74,18 @@
 		6CAA0D6618D4CD4800F38B45 /* Flappy NaailTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Flappy NaailTests-Info.plist"; sourceTree = "<group>"; };
 		6CAA0D6818D4CD4800F38B45 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6CAA0D6A18D4CD4800F38B45 /* Flappy_NaailTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Flappy_NaailTests.m; sourceTree = "<group>"; };
+		6CAA0D7918D4D08300F38B45 /* BirdUp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BirdUp.png; sourceTree = "<group>"; };
+		6CAA0D7E18D4E0CD00F38B45 /* Game.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Game.h; path = ../Game.h; sourceTree = "<group>"; };
+		6CAA0D7F18D4E0CD00F38B45 /* Game.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Game.m; path = ../Game.m; sourceTree = "<group>"; };
+		6CAA0D8318D4EBD200F38B45 /* MainMenu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MainMenu.png; sourceTree = "<group>"; };
+		6CAA0D8518D4ED6E00F38B45 /* Rectangular Marquee.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Rectangular Marquee.png"; sourceTree = "<group>"; };
+		6CAA0D8718D4F65E00F38B45 /* GetReady.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GetReady.png; sourceTree = "<group>"; };
+		6CAA0D8F18D501B200F38B45 /* floor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = floor.png; sourceTree = "<group>"; };
+		6CAA0D9118D5023700F38B45 /* borderbottom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = borderbottom.png; sourceTree = "<group>"; };
+		6CAA0D9318D509C600F38B45 /* top.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = top.png; sourceTree = "<group>"; };
+		6CB3EBC818E68D4200212BBC /* Play Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Play Button.png"; sourceTree = "<group>"; };
+		6CB3EBCC18E690FB00212BBC /* Home Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Home Button.png"; sourceTree = "<group>"; };
+		6CB3EBD218E6934900212BBC /* Replay Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Replay Button.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +150,8 @@
 				6CAA0D5118D4CD4800F38B45 /* Main.storyboard */,
 				6CAA0D5418D4CD4800F38B45 /* FNViewController.h */,
 				6CAA0D5518D4CD4800F38B45 /* FNViewController.m */,
+				6CAA0D7E18D4E0CD00F38B45 /* Game.h */,
+				6CAA0D7F18D4E0CD00F38B45 /* Game.m */,
 				6CAA0D5718D4CD4800F38B45 /* Images.xcassets */,
 				6CAA0D4618D4CD4700F38B45 /* Supporting Files */,
 			);
@@ -126,6 +161,21 @@
 		6CAA0D4618D4CD4700F38B45 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				6CB3EBD218E6934900212BBC /* Replay Button.png */,
+				6CB3EBCC18E690FB00212BBC /* Home Button.png */,
+				6CB3EBC818E68D4200212BBC /* Play Button.png */,
+				6CA4AD1B18DF4A2F001CE9F0 /* Game Over.png */,
+				6C65891418DF6B3E005AD107 /* exit.png */,
+				6CAA0D9318D509C600F38B45 /* top.png */,
+				6C65891218DF6A1A005AD107 /* Score.png */,
+				6C5CFF7118DF65B600637E75 /* tap.png */,
+				6C5CFF6B18DF63C200637E75 /* pipe.png */,
+				6CAA0D9118D5023700F38B45 /* borderbottom.png */,
+				6CAA0D8718D4F65E00F38B45 /* GetReady.png */,
+				6CAA0D8518D4ED6E00F38B45 /* Rectangular Marquee.png */,
+				6CAA0D8318D4EBD200F38B45 /* MainMenu.png */,
+				6CAA0D7918D4D08300F38B45 /* BirdUp.png */,
+				6CAA0D8F18D501B200F38B45 /* floor.png */,
 				6CAA0D4718D4CD4700F38B45 /* Flappy Naail-Info.plist */,
 				6CAA0D4818D4CD4700F38B45 /* InfoPlist.strings */,
 				6CAA0D4B18D4CD4700F38B45 /* main.m */,
@@ -200,6 +250,14 @@
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "N Squared Productions";
 				TargetAttributes = {
+					6CAA0D3B18D4CD4700F38B45 = {
+						DevelopmentTeam = 6ZDK442TU6;
+						SystemCapabilities = {
+							com.apple.GameCenter = {
+								enabled = 0;
+							};
+						};
+					};
 					6CAA0D5C18D4CD4800F38B45 = {
 						TestTargetID = 6CAA0D3B18D4CD4700F38B45;
 					};
@@ -230,7 +288,22 @@
 			buildActionMask = 2147483647;
 			files = (
 				6CAA0D5818D4CD4800F38B45 /* Images.xcassets in Resources */,
+				6CAA0D8618D4ED6E00F38B45 /* Rectangular Marquee.png in Resources */,
+				6C65891318DF6A1A005AD107 /* Score.png in Resources */,
+				6CAA0D8418D4EBD200F38B45 /* MainMenu.png in Resources */,
+				6CB3EBC918E68D4200212BBC /* Play Button.png in Resources */,
+				6CB3EBD318E6934900212BBC /* Replay Button.png in Resources */,
+				6CAA0D9218D5023700F38B45 /* borderbottom.png in Resources */,
+				6CAA0D8818D4F65E00F38B45 /* GetReady.png in Resources */,
+				6C5CFF6C18DF63C200637E75 /* pipe.png in Resources */,
+				6CA4AD1C18DF4A2F001CE9F0 /* Game Over.png in Resources */,
 				6CAA0D4A18D4CD4700F38B45 /* InfoPlist.strings in Resources */,
+				6C5CFF7218DF65B600637E75 /* tap.png in Resources */,
+				6CAA0D7B18D4D08300F38B45 /* BirdUp.png in Resources */,
+				6C65891518DF6B3E005AD107 /* exit.png in Resources */,
+				6CAA0D9418D509C600F38B45 /* top.png in Resources */,
+				6CB3EBCD18E690FB00212BBC /* Home Button.png in Resources */,
+				6CAA0D9018D501B200F38B45 /* floor.png in Resources */,
 				6CAA0D5318D4CD4800F38B45 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -253,6 +326,7 @@
 				6CAA0D5018D4CD4800F38B45 /* FNAppDelegate.m in Sources */,
 				6CAA0D4C18D4CD4700F38B45 /* main.m in Sources */,
 				6CAA0D5618D4CD4800F38B45 /* FNViewController.m in Sources */,
+				6CAA0D8018D4E0CD00F38B45 /* Game.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -377,10 +451,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Episcopal High School (6ZDK442TU6)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Episcopal High School (6ZDK442TU6)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Flappy Naail/Flappy Naail-Prefix.pch";
 				INFOPLIST_FILE = "Flappy Naail/Flappy Naail-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -390,10 +468,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Episcopal High School (6ZDK442TU6)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Episcopal High School (6ZDK442TU6)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Flappy Naail/Flappy Naail-Prefix.pch";
 				INFOPLIST_FILE = "Flappy Naail/Flappy Naail-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -457,6 +539,7 @@
 				6CAA0D7018D4CD4800F38B45 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6CAA0D7118D4CD4800F38B45 /* Build configuration list for PBXNativeTarget "Flappy NaailTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +548,7 @@
 				6CAA0D7318D4CD4800F38B45 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

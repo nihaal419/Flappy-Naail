@@ -8,6 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface FNViewController : UIViewController
+NSInteger HighScoreNumber;
 
+@interface FNViewController : UIViewController
+{
+    IBOutlet UILabel *HighScore;
+}
 @end
